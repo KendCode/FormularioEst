@@ -1,0 +1,44 @@
+C:\Users\LAB_3-PC\Documents\SharpDevelop Projects\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe.config
+C:\Users\LAB_3-PC\Documents\SharpDevelop Projects\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe
+C:\Users\LAB_3-PC\Documents\SharpDevelop Projects\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.pdb
+C:\Users\LAB_3-PC\Documents\SharpDevelop Projects\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\LAB_3-PC\Documents\SharpDevelop Projects\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.MainForm.resources
+C:\Users\LAB_3-PC\Documents\SharpDevelop Projects\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csproj.GenerateResource.Cache
+C:\Users\LAB_3-PC\Documents\SharpDevelop Projects\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.exe
+C:\Users\LAB_3-PC\Documents\SharpDevelop Projects\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.pdb
+D:\2do año\programacion II\graficas\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe.config
+D:\2do año\programacion II\graficas\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe
+D:\2do año\programacion II\graficas\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.pdb
+D:\2do año\programacion II\graficas\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csprojResolveAssemblyReference.cache
+D:\2do año\programacion II\graficas\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.MainForm.resources
+D:\2do año\programacion II\graficas\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.Registro_Estudiante.resources
+D:\2do año\programacion II\graficas\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csproj.GenerateResource.Cache
+D:\2do año\programacion II\graficas\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.exe
+D:\2do año\programacion II\graficas\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.pdb
+G:\Programacion II\3er bimestres\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csprojResolveAssemblyReference.cache
+G:\Programacion II\3er bimestres\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.MainForm.resources
+G:\Programacion II\3er bimestres\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.Registro_Estudiante.resources
+G:\Programacion II\3er bimestres\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csproj.GenerateResource.Cache
+G:\Programacion II\3er bimestres\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.exe
+G:\Programacion II\3er bimestres\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe.config
+G:\Programacion II\3er bimestres\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe
+G:\Programacion II\3er bimestres\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.pdb
+G:\Programacion II\3er bimestres\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.pdb
+G:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csprojResolveAssemblyReference.cache
+G:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.MainForm.resources
+G:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.Registro_Estudiante.resources
+G:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csproj.GenerateResource.Cache
+G:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.exe
+G:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe.config
+G:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe
+G:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.pdb
+G:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.pdb
+F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe.config
+F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe
+F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.pdb
+F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csprojResolveAssemblyReference.cache
+F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.MainForm.resources
+F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.Registro_Estudiante.resources
+F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csproj.GenerateResource.Cache
+F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.exe
+F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.pdb
