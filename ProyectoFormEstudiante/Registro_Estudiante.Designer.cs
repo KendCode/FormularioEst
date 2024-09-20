@@ -127,13 +127,16 @@ namespace ProyectoFormEstudiante
 			// 
 			// txt_Paterno
 			// 
-			this.txt_Paterno.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txt_Paterno.BackColor = System.Drawing.Color.BlanchedAlmond;
+			this.txt_Paterno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.txt_Paterno.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.txt_Paterno.Location = new System.Drawing.Point(129, 90);
 			this.txt_Paterno.Margin = new System.Windows.Forms.Padding(2);
 			this.txt_Paterno.Multiline = true;
 			this.txt_Paterno.Name = "txt_Paterno";
 			this.txt_Paterno.Size = new System.Drawing.Size(186, 32);
 			this.txt_Paterno.TabIndex = 0;
+			this.txt_Paterno.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
 			this.txt_Paterno.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Txt_PaternoKeyPress);
 			// 
 			// label1
@@ -158,7 +161,7 @@ namespace ProyectoFormEstudiante
 			// 
 			// lbl_Paterno
 			// 
-			this.lbl_Paterno.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.lbl_Paterno.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.lbl_Paterno.Location = new System.Drawing.Point(20, 90);
 			this.lbl_Paterno.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_Paterno.Name = "lbl_Paterno";
@@ -168,17 +171,17 @@ namespace ProyectoFormEstudiante
 			// 
 			// lbl_Materno
 			// 
-			this.lbl_Materno.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lbl_Materno.Location = new System.Drawing.Point(352, 90);
+			this.lbl_Materno.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.lbl_Materno.Location = new System.Drawing.Point(339, 94);
 			this.lbl_Materno.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_Materno.Name = "lbl_Materno";
-			this.lbl_Materno.Size = new System.Drawing.Size(86, 30);
+			this.lbl_Materno.Size = new System.Drawing.Size(105, 30);
 			this.lbl_Materno.TabIndex = 4;
 			this.lbl_Materno.Text = "Materno :";
 			// 
 			// lbl_Nombre
 			// 
-			this.lbl_Nombre.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.lbl_Nombre.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.lbl_Nombre.Location = new System.Drawing.Point(20, 152);
 			this.lbl_Nombre.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_Nombre.Name = "lbl_Nombre";
@@ -188,38 +191,38 @@ namespace ProyectoFormEstudiante
 			// 
 			// lbl_CI
 			// 
-			this.lbl_CI.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lbl_CI.Location = new System.Drawing.Point(352, 152);
+			this.lbl_CI.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.lbl_CI.Location = new System.Drawing.Point(358, 156);
 			this.lbl_CI.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_CI.Name = "lbl_CI";
 			this.lbl_CI.Size = new System.Drawing.Size(74, 30);
 			this.lbl_CI.TabIndex = 6;
-			this.lbl_CI.Text = "CI";
+			this.lbl_CI.Text = "CI:";
 			// 
 			// label7
 			// 
-			this.label7.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label7.Font = new System.Drawing.Font("Times New Roman", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.label7.Location = new System.Drawing.Point(20, 208);
 			this.label7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.label7.Name = "label7";
-			this.label7.Size = new System.Drawing.Size(166, 30);
+			this.label7.Size = new System.Drawing.Size(201, 30);
 			this.label7.TabIndex = 7;
 			this.label7.Text = "Datos Academicos";
 			// 
 			// lbl_Matricula
 			// 
-			this.lbl_Matricula.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.lbl_Matricula.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.lbl_Matricula.Location = new System.Drawing.Point(20, 254);
 			this.lbl_Matricula.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_Matricula.Name = "lbl_Matricula";
-			this.lbl_Matricula.Size = new System.Drawing.Size(93, 30);
+			this.lbl_Matricula.Size = new System.Drawing.Size(105, 30);
 			this.lbl_Matricula.TabIndex = 8;
-			this.lbl_Matricula.Text = "Matricula ";
+			this.lbl_Matricula.Text = "Matricula:";
 			// 
 			// lbl_Nota1
 			// 
-			this.lbl_Nota1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lbl_Nota1.Location = new System.Drawing.Point(20, 318);
+			this.lbl_Nota1.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.lbl_Nota1.Location = new System.Drawing.Point(20, 362);
 			this.lbl_Nota1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_Nota1.Name = "lbl_Nota1";
 			this.lbl_Nota1.Size = new System.Drawing.Size(75, 30);
@@ -228,29 +231,37 @@ namespace ProyectoFormEstudiante
 			// 
 			// txt_Materno
 			// 
-			this.txt_Materno.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txt_Materno.BackColor = System.Drawing.Color.BlanchedAlmond;
+			this.txt_Materno.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.txt_Materno.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.txt_Materno.Location = new System.Drawing.Point(448, 92);
 			this.txt_Materno.Margin = new System.Windows.Forms.Padding(2);
 			this.txt_Materno.Multiline = true;
 			this.txt_Materno.Name = "txt_Materno";
 			this.txt_Materno.Size = new System.Drawing.Size(186, 32);
 			this.txt_Materno.TabIndex = 17;
+			this.txt_Materno.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
 			this.txt_Materno.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Txt_MaternoKeyPress);
 			// 
 			// txt_Nombre
 			// 
-			this.txt_Nombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txt_Nombre.BackColor = System.Drawing.Color.BlanchedAlmond;
+			this.txt_Nombre.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.txt_Nombre.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.txt_Nombre.Location = new System.Drawing.Point(129, 152);
 			this.txt_Nombre.Margin = new System.Windows.Forms.Padding(2);
 			this.txt_Nombre.Multiline = true;
 			this.txt_Nombre.Name = "txt_Nombre";
 			this.txt_Nombre.Size = new System.Drawing.Size(186, 32);
 			this.txt_Nombre.TabIndex = 18;
+			this.txt_Nombre.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
 			this.txt_Nombre.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Txt_NombreKeyPress);
 			// 
 			// txt_CI
 			// 
-			this.txt_CI.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txt_CI.BackColor = System.Drawing.Color.BlanchedAlmond;
+			this.txt_CI.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.txt_CI.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.txt_CI.Location = new System.Drawing.Point(448, 154);
 			this.txt_CI.Margin = new System.Windows.Forms.Padding(2);
 			this.txt_CI.MaxLength = 8;
@@ -258,62 +269,74 @@ namespace ProyectoFormEstudiante
 			this.txt_CI.Name = "txt_CI";
 			this.txt_CI.Size = new System.Drawing.Size(186, 32);
 			this.txt_CI.TabIndex = 19;
+			this.txt_CI.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
 			// 
 			// txt_Matricula
 			// 
-			this.txt_Matricula.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txt_Matricula.BackColor = System.Drawing.Color.BlanchedAlmond;
+			this.txt_Matricula.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.txt_Matricula.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.txt_Matricula.Location = new System.Drawing.Point(129, 254);
 			this.txt_Matricula.Margin = new System.Windows.Forms.Padding(2);
 			this.txt_Matricula.Multiline = true;
 			this.txt_Matricula.Name = "txt_Matricula";
 			this.txt_Matricula.Size = new System.Drawing.Size(186, 32);
 			this.txt_Matricula.TabIndex = 20;
+			this.txt_Matricula.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
 			this.txt_Matricula.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Txt_MatriculaKeyPress);
 			// 
 			// txt_Nota3
 			// 
-			this.txt_Nota3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.txt_Nota3.Location = new System.Drawing.Point(530, 318);
+			this.txt_Nota3.BackColor = System.Drawing.Color.BlanchedAlmond;
+			this.txt_Nota3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.txt_Nota3.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txt_Nota3.Location = new System.Drawing.Point(530, 362);
 			this.txt_Nota3.Margin = new System.Windows.Forms.Padding(2);
 			this.txt_Nota3.MaxLength = 3;
 			this.txt_Nota3.Multiline = true;
 			this.txt_Nota3.Name = "txt_Nota3";
 			this.txt_Nota3.Size = new System.Drawing.Size(104, 32);
 			this.txt_Nota3.TabIndex = 21;
+			this.txt_Nota3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
 			this.txt_Nota3.TextChanged += new System.EventHandler(this.Txt_Nota3TextChanged);
 			this.txt_Nota3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Txt_Nota3KeyPress);
 			// 
 			// txt_Nota2
 			// 
-			this.txt_Nota2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.txt_Nota2.Location = new System.Drawing.Point(310, 318);
+			this.txt_Nota2.BackColor = System.Drawing.Color.BlanchedAlmond;
+			this.txt_Nota2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.txt_Nota2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txt_Nota2.Location = new System.Drawing.Point(310, 362);
 			this.txt_Nota2.Margin = new System.Windows.Forms.Padding(2);
 			this.txt_Nota2.MaxLength = 3;
 			this.txt_Nota2.Multiline = true;
 			this.txt_Nota2.Name = "txt_Nota2";
 			this.txt_Nota2.Size = new System.Drawing.Size(106, 32);
 			this.txt_Nota2.TabIndex = 22;
+			this.txt_Nota2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
 			this.txt_Nota2.TextChanged += new System.EventHandler(this.Txt_Nota2TextChanged);
 			this.txt_Nota2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Txt_Nota2KeyPress);
 			// 
 			// txt_Nota1
 			// 
-			this.txt_Nota1.BackColor = System.Drawing.Color.WhiteSmoke;
-			this.txt_Nota1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.txt_Nota1.Location = new System.Drawing.Point(99, 318);
+			this.txt_Nota1.BackColor = System.Drawing.Color.BlanchedAlmond;
+			this.txt_Nota1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.txt_Nota1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txt_Nota1.Location = new System.Drawing.Point(99, 362);
 			this.txt_Nota1.Margin = new System.Windows.Forms.Padding(2);
 			this.txt_Nota1.MaxLength = 3;
 			this.txt_Nota1.Multiline = true;
 			this.txt_Nota1.Name = "txt_Nota1";
 			this.txt_Nota1.Size = new System.Drawing.Size(106, 32);
 			this.txt_Nota1.TabIndex = 23;
+			this.txt_Nota1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
 			this.txt_Nota1.TextChanged += new System.EventHandler(this.Txt_Nota1TextChanged);
 			this.txt_Nota1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.Txt_Nota1KeyPress);
 			// 
 			// lbl_Nota3
 			// 
-			this.lbl_Nota3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lbl_Nota3.Location = new System.Drawing.Point(450, 318);
+			this.lbl_Nota3.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.lbl_Nota3.Location = new System.Drawing.Point(451, 364);
 			this.lbl_Nota3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_Nota3.Name = "lbl_Nota3";
 			this.lbl_Nota3.Size = new System.Drawing.Size(75, 30);
@@ -322,8 +345,8 @@ namespace ProyectoFormEstudiante
 			// 
 			// lbl_Nota2
 			// 
-			this.lbl_Nota2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.lbl_Nota2.Location = new System.Drawing.Point(225, 318);
+			this.lbl_Nota2.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.lbl_Nota2.Location = new System.Drawing.Point(225, 362);
 			this.lbl_Nota2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.lbl_Nota2.Name = "lbl_Nota2";
 			this.lbl_Nota2.Size = new System.Drawing.Size(75, 30);
@@ -433,13 +456,13 @@ namespace ProyectoFormEstudiante
 			// 
 			// btnNuevo
 			// 
-			this.btnNuevo.BackColor = System.Drawing.Color.RoyalBlue;
+			this.btnNuevo.BackColor = System.Drawing.Color.SeaShell;
 			this.btnNuevo.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.btnNuevo.ForeColor = System.Drawing.Color.Cornsilk;
+			this.btnNuevo.ForeColor = System.Drawing.Color.DarkGoldenrod;
 			this.btnNuevo.Location = new System.Drawing.Point(651, 24);
 			this.btnNuevo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.btnNuevo.Name = "btnNuevo";
-			this.btnNuevo.Size = new System.Drawing.Size(80, 26);
+			this.btnNuevo.Size = new System.Drawing.Size(83, 26);
 			this.btnNuevo.TabIndex = 27;
 			this.btnNuevo.Text = "NUEVO";
 			this.btnNuevo.UseVisualStyleBackColor = false;
@@ -447,9 +470,9 @@ namespace ProyectoFormEstudiante
 			// 
 			// btnAgregar
 			// 
-			this.btnAgregar.BackColor = System.Drawing.Color.RoyalBlue;
+			this.btnAgregar.BackColor = System.Drawing.Color.Snow;
 			this.btnAgregar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.btnAgregar.ForeColor = System.Drawing.Color.Cornsilk;
+			this.btnAgregar.ForeColor = System.Drawing.Color.DarkGoldenrod;
 			this.btnAgregar.Location = new System.Drawing.Point(752, 24);
 			this.btnAgregar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.btnAgregar.Name = "btnAgregar";
@@ -461,13 +484,13 @@ namespace ProyectoFormEstudiante
 			// 
 			// btnModificar
 			// 
-			this.btnModificar.BackColor = System.Drawing.Color.RoyalBlue;
+			this.btnModificar.BackColor = System.Drawing.Color.SeaShell;
 			this.btnModificar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.btnModificar.ForeColor = System.Drawing.Color.Cornsilk;
+			this.btnModificar.ForeColor = System.Drawing.Color.DarkGoldenrod;
 			this.btnModificar.Location = new System.Drawing.Point(880, 24);
 			this.btnModificar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.btnModificar.Name = "btnModificar";
-			this.btnModificar.Size = new System.Drawing.Size(99, 26);
+			this.btnModificar.Size = new System.Drawing.Size(112, 26);
 			this.btnModificar.TabIndex = 29;
 			this.btnModificar.Text = "MODIFICAR";
 			this.btnModificar.UseVisualStyleBackColor = false;
@@ -475,13 +498,13 @@ namespace ProyectoFormEstudiante
 			// 
 			// btnEliminar
 			// 
-			this.btnEliminar.BackColor = System.Drawing.Color.RoyalBlue;
+			this.btnEliminar.BackColor = System.Drawing.Color.Snow;
 			this.btnEliminar.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.btnEliminar.ForeColor = System.Drawing.Color.Cornsilk;
+			this.btnEliminar.ForeColor = System.Drawing.Color.DarkGoldenrod;
 			this.btnEliminar.Location = new System.Drawing.Point(1008, 24);
 			this.btnEliminar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
 			this.btnEliminar.Name = "btnEliminar";
-			this.btnEliminar.Size = new System.Drawing.Size(84, 26);
+			this.btnEliminar.Size = new System.Drawing.Size(99, 26);
 			this.btnEliminar.TabIndex = 30;
 			this.btnEliminar.Text = "ELIMINAR";
 			this.btnEliminar.UseVisualStyleBackColor = false;
@@ -489,45 +512,51 @@ namespace ProyectoFormEstudiante
 			// 
 			// txtCarrera
 			// 
-			this.txtCarrera.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.txtCarrera.Location = new System.Drawing.Point(448, 208);
+			this.txtCarrera.BackColor = System.Drawing.Color.BlanchedAlmond;
+			this.txtCarrera.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.txtCarrera.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txtCarrera.Location = new System.Drawing.Point(129, 305);
 			this.txtCarrera.Margin = new System.Windows.Forms.Padding(2);
 			this.txtCarrera.Multiline = true;
 			this.txtCarrera.Name = "txtCarrera";
 			this.txtCarrera.Size = new System.Drawing.Size(186, 32);
 			this.txtCarrera.TabIndex = 32;
+			this.txtCarrera.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
 			this.txtCarrera.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtCarreraKeyPress);
 			// 
 			// label3
 			// 
-			this.label3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label3.Location = new System.Drawing.Point(339, 208);
+			this.label3.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label3.Location = new System.Drawing.Point(20, 307);
 			this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.label3.Name = "label3";
 			this.label3.Size = new System.Drawing.Size(93, 30);
 			this.label3.TabIndex = 31;
-			this.label3.Text = "Carrera";
+			this.label3.Text = "Carrera:";
 			// 
 			// txtDuracion
 			// 
-			this.txtDuracion.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.txtDuracion.Location = new System.Drawing.Point(448, 254);
+			this.txtDuracion.BackColor = System.Drawing.Color.BlanchedAlmond;
+			this.txtDuracion.BorderStyle = System.Windows.Forms.BorderStyle.None;
+			this.txtDuracion.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.txtDuracion.Location = new System.Drawing.Point(438, 303);
 			this.txtDuracion.Margin = new System.Windows.Forms.Padding(2);
 			this.txtDuracion.Multiline = true;
 			this.txtDuracion.Name = "txtDuracion";
 			this.txtDuracion.Size = new System.Drawing.Size(186, 32);
 			this.txtDuracion.TabIndex = 34;
+			this.txtDuracion.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
 			this.txtDuracion.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.TxtDuracionKeyPress);
 			// 
 			// label4
 			// 
-			this.label4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.label4.Location = new System.Drawing.Point(339, 254);
+			this.label4.Font = new System.Drawing.Font("Times New Roman", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+			this.label4.Location = new System.Drawing.Point(329, 307);
 			this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
 			this.label4.Name = "label4";
-			this.label4.Size = new System.Drawing.Size(93, 30);
+			this.label4.Size = new System.Drawing.Size(103, 30);
 			this.label4.TabIndex = 33;
-			this.label4.Text = "Duración";
+			this.label4.Text = "Duración:";
 			// 
 			// Registro_Estudiante
 			// 

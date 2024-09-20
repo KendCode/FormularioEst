@@ -42,3 +42,12 @@ F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\Proye
 F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csproj.GenerateResource.Cache
 F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.exe
 F:\Programacion II\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.pdb
+C:\Users\ASUS\Desktop\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe.config
+C:\Users\ASUS\Desktop\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.exe
+C:\Users\ASUS\Desktop\ProyectoFormEstudiante\ProyectoFormEstudiante\bin\Debug\ProyectoFormEstudiante.pdb
+C:\Users\ASUS\Desktop\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.MainForm.resources
+C:\Users\ASUS\Desktop\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.Registro_Estudiante.resources
+C:\Users\ASUS\Desktop\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.exe
+C:\Users\ASUS\Desktop\ProyectoFormEstudiante\ProyectoFormEstudiante\obj\Debug\ProyectoFormEstudiante.pdb
