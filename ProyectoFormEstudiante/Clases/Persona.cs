@@ -20,11 +20,16 @@ namespace ProyectoFormEstudiante.Clases
 		protected string materno;
 		protected string nombre;
 		protected int Ci;
+		protected string genero;
 		//metodos constructor
 		public Persona()
 		{
 		}
 		//propiedades se obtiene de los atributos
+		public string Genero{
+			get{return genero;}
+			set{genero = value;}
+		}
 		public string Paterno{
 			get{return paterno;}
 			set{paterno = value;}

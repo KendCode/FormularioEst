@@ -73,5 +73,21 @@ namespace ProyectoFormEstudiante.Clases
 			}
 			return min;
 		}
+		//CODIGO MATERIA
+		public void CodigoMat(string nomMat){
+			//se generara un substring o subcadena de donde a donde se tomara valores
+			No.CodMat = No.Materia.Substring(0,3)+" - 101";
+		}
+		//genero
+		public void GeneroEst(int indice){
+			if(indice == 0){
+				genero="MAsculino";
+			}
+			else if(indice == 1){
+				genero= "Femenino";
+			}
+			else
+				genero = "";
+		}
 	}
 }

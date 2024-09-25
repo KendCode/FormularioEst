@@ -22,8 +22,18 @@ namespace ProyectoFormEstudiante.Clases
 		private string obs;
 		private double nmax;
 		private double nmin;
+		private string materia;
+		private string codmat;
 		public Nota()
 		{
+		}
+		public string Materia{
+			get{return materia;}
+			set{materia = value;}
+		}
+		public string CodMat{
+			get{return codmat;}
+			set{codmat = value;}
 		}
 		public double Prom{
 			get{return promedio;}

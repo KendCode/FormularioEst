@@ -63,9 +63,15 @@ namespace ProyectoFormEstudiante
 			ES.NOTA.NotaMin = ES.Min();
 			ES.CARRERA.NombreCarrera = txtCarrera.Text;
 			ES.CARRERA.Duracion = txtDuracion.Text;
+			//index numero ------- item palabra
+			ES.NOTA.Materia = cbbxMateria.SelectedItem.ToString();
+			ES.CodigoMat(ES.NOTA.Materia);
+			int auxgenero = cbbxGenero.SelectedIndex;
+			ES.GeneroEst(auxgenero);
 			//adicionar al DGV
-			dgvEstudiantes.Rows.Add(i,ES.Paterno,ES.Materno,ES.Nombre,ES.CI,ES.Matricula,ES.NOTA.N1,ES.NOTA.N2,
-			                        ES.NOTA.N3,ES.NOTA.Prom,ES.NOTA.Obs,ES.NOTA.NotaMin,ES.NOTA.NotaMax,ES.CARRERA.NombreCarrera,ES.CARRERA.Duracion);
+			dgvEstudiantes.Rows.Add(i,ES.Paterno,ES.Materno,ES.Nombre,ES.CI,ES.Matricula,ES.Genero,ES.NOTA.N1,ES.NOTA.N2,
+			                        ES.NOTA.N3,ES.NOTA.Prom,ES.NOTA.Obs,ES.NOTA.NotaMin,ES.NOTA.NotaMax,
+			                        ES.CARRERA.NombreCarrera,ES.CARRERA.Duracion,ES.NOTA.Materia,ES.NOTA.CodMat);
 			i++;
 			Limpiar();
 			
